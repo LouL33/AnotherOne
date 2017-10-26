@@ -1,0 +1,12 @@
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\bin\Debug\AnotherOne.exe.config
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\bin\Debug\AnotherOne.exe
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\bin\Debug\AnotherOne.pdb
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\bin\Debug\AIMLbot.dll
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\bin\Debug\AIMLbot.pdb
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.Form1.resources
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.Properties.Resources.resources
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.csproj.GenerateResource.Cache
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.csproj.CoreCompileInputs.cache
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.exe
+C:\Users\Lou75\Desktop\AI\AnotherOne\AnotherOne\obj\Debug\AnotherOne.pdb
