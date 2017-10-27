@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Speech.Recognition;
 using System.Speech.Synthesis;
+using AIMLbot;
 
 namespace AnotherOne
 {
@@ -17,6 +18,9 @@ namespace AnotherOne
 
         private SpeechRecognitionEngine engine;
         private SpeechSynthesizer synthesizer;
+
+        private Bot bot;
+        private User user;
 
         public void LoadSpeech()
         {
@@ -30,6 +34,16 @@ namespace AnotherOne
                 engine.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(rec);
 
                 engine.RecognizeAsync(RecognizeMode.Multiple);
+
+                bot = new Bot();
+                bot.loadSettings();
+
+                user = new User("Lou", bot);
+
+                bot.isAcceptingUserInput = false;
+                bot.loadAIMLFromFiles();
+                bot.isAcceptingUserInput = true;
+
             }
             catch (Exception ex)
             {
